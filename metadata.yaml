@@ -1,5 +1,8 @@
 _repo: An-Apology-for-the-Colouring-of-the-Greek-Court-in-the-Crystal-Palace_63257
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63257-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, Owen
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '25330'
     url: http://www.gutenberg.org/2009/agents/25330
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63257#An-Apology-for-the-Colouring-of-the-Greek-Court-in-the-Crystal-Palace
 gutenberg_issued: '2020-09-21'
 gutenberg_type: Text
 identifiers:
